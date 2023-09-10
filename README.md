@@ -1,4 +1,4 @@
-# Genetic Algorithm for Solving the Traveling Salesman Problem (TSP)
+## Genetic Algorithm for Solving the Traveling Salesman Problem (TSP)
 
 <img src="pic.png" alt="Image Description" width="700"/>
 
